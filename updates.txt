@@ -1,0 +1,36 @@
+to initialize git into directory
+git init
+
+to create any file
+touch <filename.extension>
+
+to track file or to create stage of file
+git add filename or git add .
+
+to create a snapshot/version
+git commit -m "commit message"
+
+to check status of git
+git status
+
+
+to check my updates logs
+git log
+
+to check available branch
+git branch
+(* or green color shows current branch)
+
+to create new branch
+git branch <new branch name>
+
+
+to checkout into branch
+git checkout <branch_name>
+
+to merge branch
+-first of all need to be in desination branch
+git merge <source branch name>
+
+to delete branch
+git branch -d <branch_name>
