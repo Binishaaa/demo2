@@ -1,2 +1,0 @@
-to merge braanch
-git merge <nayabranch>
